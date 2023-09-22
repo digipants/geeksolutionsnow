@@ -6674,7 +6674,7 @@ figcaption {
   transition: border-color 300ms ease, background-color 300ms ease,
     transform 300ms ease, color 300ms ease, -webkit-transform 300ms ease;
   color: #fff;
-  font-size: 18px;
+  font-size: 25px;
   line-height: 1.111em;
   font-weight: 700;
   text-align: center;
@@ -8168,7 +8168,7 @@ figcaption {
   border-right: 1px solid #f7f7fc;
   -webkit-transition-property: none;
   transition-property: none;
-  font-size: 16px;
+  font-size: 25px;
   line-height: 1.667em;
   text-decoration: none;
 }
@@ -10615,7 +10615,7 @@ figcaption {
   top: 0%;
   right: 0%;
   bottom: 0%;
-  background-image: url("/assets/images/63627e24c2e9b25886d34ed1/636e8f3071bc739d4390163b_coming-soon-plumbing-x-webflow-template.png");
+  background-image: url("/assets/images/63627e24c2e9b25886d34ed1/636e8f3071bc739d4390163b_coming-soon-geek-solutions.png");
   background-position: 50% 100%;
   background-size: 125%;
   background-repeat: no-repeat;
@@ -10855,7 +10855,7 @@ figcaption {
   width: 100%;
   max-width: 648px;
   min-width: 600px;
-  background-image: url("/assets/images/63627e24c2e9b25886d34ed1/636408537baf15b88b43d21e_having-a-problem-We-will-fixed-it-today-plumbing-x-webflow-template.png");
+  background-image: url("/assets/images/63627e24c2e9b25886d34ed1/636408537baf15b88b43d21e_having-a-problem-We-will-fixed-it-today-geek-solutions.png");
   background-position: 50% 100%;
   background-size: 100%;
   background-repeat: no-repeat;
@@ -10990,7 +10990,7 @@ figcaption {
   top: 0%;
   right: 0%;
   bottom: 0%;
-  background-image: url("/assets/images/63627e24c2e9b25886d34ed1/6365325095990d2765d871a6_subscribe-to-our-newsletter-plumbing-x-webflow-template.png");
+  background-image: url("/assets/images/63627e24c2e9b25886d34ed1/6365325095990d2765d871a6_subscribe-to-our-newsletter-geek-solutions.png");
   background-position: 50% -7%;
   background-size: 100%;
   background-repeat: no-repeat;
@@ -12745,7 +12745,7 @@ figcaption {
   }
   .btn-primary {
     padding: 22px 32px;
-    font-size: 16px;
+    font-size: 25px;
   }
   .btn-primary.small {
     padding: 16px 20px;
