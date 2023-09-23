@@ -18294,7 +18294,7 @@
         return n.ready = function () {
             var n, r, a, c = o.attr("data-wf-status"),
                 p = o.attr("data-wf-domain") || "";
-            /\.geeksolutionsnow\.io$/i.test(p) && u.hostname !== p && (c = !0), c && !s && (t = t || (n = e('<a class="w-geeksolutionsnow-badge"></a>').attr("href", "https://geeksolutionsnow.com?utm_campaign=brandjs"), r = e("<img>").attr("src", "https://d3e54v103j8qbb.cloudfront.net/img/geeksolutionsnow-badge-icon.f67cd735e3.svg").attr("alt", "").css({
+            /\.geeksolutionsnow\.io$/i.test(p) && u.hostname !== p && (c = !0), c && !s && (t = t || (n = e('<a class="w-geeksolutionsnow-badge"></a>').attr("href", "https://geeksolutionsnow.com"), r = e("<img>").attr("src", "https://d3e54v103j8qbb.cloudfront.net/img/geeksolutionsnow-badge-icon.f67cd735e3.svg").attr("alt", "").css({
                 marginRight: "8px",
                 width: "16px"
             }), a = e("<img>").attr("src", "https://d1otoma47x30pg.cloudfront.net/img/geeksolutionsnow-badge-text.6faa6a38cd.svg").attr("alt", "Made in geeksolutionsnow"), n.append(r, a), n[0]), d(), setTimeout(d, 500), e(i).off(l, f).on(l, f))
