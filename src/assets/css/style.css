@@ -7989,7 +7989,7 @@ figcaption {
 
 .section.hero.v1 {
   padding-top: 90px;
-  padding-bottom: 180px;
+  padding-bottom: 0px;
 }
 
 .section.hero.v1.overflow-visible {
@@ -8399,12 +8399,12 @@ figcaption {
 }
 
 .header-logo {
-  width: 100px;
+  width: 300px;
 }
 
 .header-logo-link {
   width: 100%;
-  max-width: 219px;
+  max-width: 319px;
   padding-left: 0px;
   -webkit-transition: -webkit-transform 300ms ease;
   transition: -webkit-transform 300ms ease;
@@ -11976,7 +11976,7 @@ figcaption {
     box-shadow: none;
   }
   .header-logo-link {
-    max-width: 183px;
+    max-width: 283px;
   }
   .hamburger-menu-wrapper {
     overflow: hidden;
@@ -13121,7 +13121,7 @@ figcaption {
     margin-left: 0px;
   }
   .header-logo-link {
-    max-width: 160px;
+    max-width: 250px;
   }
   .hamburger-menu-wrapper {
     width: 50px;
@@ -14017,7 +14017,7 @@ figcaption {
     text-align: left;
   }
   .header-logo-link {
-    max-width: 150px;
+    max-width: 250px;
     margin-right: 20px;
   }
   .hamburger-menu-wrapper {
